@@ -3,3 +3,4 @@ Another sample repo
 another line added
 and another one.
 I have decided to make the corrections myself.
+I have done this myself.
